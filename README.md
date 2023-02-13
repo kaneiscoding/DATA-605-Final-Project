@@ -1,6 +1,10 @@
-# League of Legends 
-## Author: Kane Smith
-## Data 605: Actionable Visualization & Analytics
+# League of Legends eSports
+### Author: Kane Smith
+### Data 605: Actionable Visualization & Analytics
+
+# Introduction 
+
+Traditional sports has become dominated by data and analytics. From the decisions made by a team such as what players to aqurire, how to play, and ... to the debate between fans of who is better than who by comparing their statistics. The same can be said for an much newer, emerging sport known as eSports where people compete against each other virtually. One of the most popular eSports games for the past decade has been League of Legends. I will bring the data-driven debate to the virtual domain to see if some of the age old questions can be answered.
 
 # What is League of Legends?
 
@@ -13,6 +17,8 @@ Each team's players are assigned to a different position:
 - Middle: This player will spend most of the game in the top lane.
 - Jungle: This player will spend most of the game in the Jungle moving between all ofthe lanes to help their teammates.
 - Damage and Support: Both of these players spend most of the game in the bottom lane together.
+
+[insert graphic]
 
 # What is League of Legends E-sports?
 Now that we understand the basics of the game, what does the competitve scene look like?
@@ -36,12 +42,14 @@ Visually, a League of Legends season will look like this:
 - Tableau to create visualizations
 - GitHub pages to create this blog 
 
-# Question 1: 
+# Question 1: What team has been the best in their region?
 
-# Question 2:
+# Question 2: What team has been the best internationally?
 
-# Question 3:
+# Question 3: Who has been the best in their respective role?
 
-# Question 4:
+# Question 4: What are the most important factor(s) to winning a game?
 
-# Question 5:
+# Question 5: Can we determine who has been the best player in the world?
+
+# Conclusion 
