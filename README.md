@@ -18,7 +18,7 @@ Each team's players are assigned to a different position:
 - Jungle: This player will spend most of the game in the Jungle moving between all ofthe lanes to help their teammates.
 - Damage and Support: Both of these players spend most of the game in the bottom lane together.
 
-<img src="https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/roles-map-mobafire.png" class="img-responsive" alt=""> </div>
+<img src="DATA-605-Final-Project/Graphics/Q1 Annotated.png" class="img-responsive" alt=""> </div>
 ![Roles](https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/roles-map-mobafire.png)
 
 # What is League of Legends E-sports?
