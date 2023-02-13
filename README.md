@@ -11,12 +11,12 @@
 - [Guiding Questions](README.md#guiding-questions)
 - [Dataset](README.md#dataset)
 - [Methodology](README.md#methodology)
-- [Tools](README.md#tools)
-- [Q1: What team has been the best in their region?](README.md#what-team-has-been-the-best-in-their-region)
-- [Q2: What team has been the best internationally?](README.md#what-team-has-been-the-best-internationally)
-- [Q3: Who has been the best in their respective role?](README.md#who-has-been-the-best-in-their-respective-role)
-- [Q4: What are the most important factor in winning a game?](README.md#what-are-most-important-factors-in-winning-a-game)
-- [Q5: What Champions Have Been the Best Throughout the Years?](README.md#what-champions-have-been-the-best-throughout-the-years)
+- [Tools](README.md#tools-used)
+- [Q1: What team has been the best in their region?](README.md#question-1-what-team-has-been-the-best-in-their-region)
+- [Q2: What team has been the best internationally?](README.md#question-2-what-team-has-been-the-best-internationally)
+- [Q3: Who has been the best in their respective role?](README.md#question-3-who-has-been-the-best-in-their-respective-role)
+- [Q4: What are the most important factor in winning a game?](README.md#question-4-what-are-most-important-factors-in-winning-a-game)
+- [Q5: What Champions Have Been the Best Throughout the Years?](README.md#question-5-what-champions-have-been-the-best-throughout-the-years)
 - [Final Thoughts](README.md#final-thoughts)
 - [References](README.md#references)
 
@@ -24,7 +24,7 @@
 
 ## Introduction 
 
-Traditional sports has become dominated by data and analytics. From the decisions made by a team such as what players to aqurire, how to play, and ... to the debate between fans of who is better than who by comparing their statistics. The same can be said for an much newer, emerging sport known as eSports where people compete against each other virtually. One of the most popular eSports games for the past decade has been League of Legends. I will bring the data-driven debate to the virtual domain to see if some of the age old questions can be answered.
+Traditional sports has become dominated by data and analytics. From the decisions made by a team such as what players to aqurire, how to play, etc. to the debate between fans of who is better than who by comparing their statistics. The same can be said for an much newer, emerging sport known as eSports where people compete against each other virtually. One of the most popular eSports games for the past decade has been League of Legends. I will bring the data-driven debate to the virtual domain to see if some of the age old questions can be answered.
 
 ### What is League of Legends?
 
@@ -79,13 +79,21 @@ For our analysis, years 2014-2017 have been left out, as during this time the eS
 
 ## Methodology
 
+During my analysis I used the following methodology:
+
+1. Define the question
+2. Clean and wrangle the data
+3. Data analysis
+4. Data Visualization
+5. Conclusion
+
 <br>
 
 ## Tools Used:
 - Microsoft Excel and Python to clean the data
-  - Python packages used: Matplotlib, Numpy, Pandas
-- Tableau to create visualizations
-- GitHub pages to create this blog 
+  - Python packages used: [Matplotlib](https://matplotlib.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
+- [Tableau](https://www.tableau.com/) to create visualizations
+- GitHub for version control and GitHub Pages to create this blog 
 
 <br>
 
