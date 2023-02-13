@@ -39,6 +39,7 @@ Each team's players are assigned to a different position:
 - Damage and Support: Both of these players spend most of the game in the bottom lane together.
 
 <img src="https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/roles-map-mobafire.png"  alt="Roles" width="900">
+(Credit: Mobafire)
 
 ### What is League of Legends E-sports?
 Now that we understand the basics of the game, what does the competitve scene look like?
@@ -145,10 +146,15 @@ We see a player, TheShy show up at the top of the top laner role who was not pre
 
 ## Question 4: What are the most important factors in winning a game?
 
-Next, let's see how some game metrics differ between the losing team and the winning team.
+Next, let's see how some game metrics differ between the losing team and the winning team. It's important to understand two concepts XP and gold. XP is used to level up your character which makes them stronger as the game goes on. It is aquire by killing monsters in the jungle and the enemy characters. Gold is used to by items for your character which also increases their power; it is aquired in the same way as XP but all players also earn a constant amount of gold passively.
+
+Now that we understand XP and gold, we can analyze the following visualization:
 
 <img src="https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/Q4%20Annotated.png"  alt="Question 4" width="900">
 
+We see that the winning team does 418 more damage to the enemy on average compared to the losing team. This makes sense because as a team begins to pull ahead, they will have more gold and XP and therefore be stronger. 
+
+The intersting metrics are XP and gold at 15 minutes into the game. The winning team will be up 1880 XP and 2812 gold on average 15 minutes into the game. It's important to know that the teams themselves are not aware of these metrics while they are playing the game, but a viewer would be. 
 
 <br>
 
@@ -170,10 +176,16 @@ We see different champions appear at the top of pick percentage for each role. T
 
 ## Final Thoughts 
 
+One type of data I would have loved to analyze is player contracts/salary. Unlike traditional sports, these contracts are not publicly known for most players. It would be interesting to see if the most successful teams spend significantly more than the lower tier teams. Currently in League of Legends eSports there is no salary cap, so teams can spend as much as they can/want.
 
+When discussing the classic questions such as "what is the best team?" and "who is the best player?" there often isn't one obvious answer. Especially in the realm of League of Legends eSports where teams compete against their native region for most of the year and then compete against the rest of the teams internationally. However, I think the visualizations used to answer the guiding questions give a good idea of who is at the top of the sport. 
 
 <br>
 
 ## Refrences
+
+-Mobafire (November 18, 2021). Understanding League of Legends. Obtained from Mobafire: https://www.mobafire.com/league-of-legends/build/understanding-league-of-legends-beginners-guide-600269
+
+-Sevenhuysen, T. (2023). Esports Match Data. Obtained from Oracles Elixir: https://oracleselixir.com/
 
 <br>
