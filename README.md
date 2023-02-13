@@ -42,6 +42,7 @@ Visually, a League of Legends season will look like this:
 - GitHub pages to create this blog 
 
 # Question 1: What team has been the best in their region?
+
 ![Question 1](https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/Q1%20Annotated.png)
 
 # Question 2: What team has been the best internationally?
@@ -55,6 +56,6 @@ Visually, a League of Legends season will look like this:
 # Question 4: What are the most important factor(s) to winning a game?
 ![Question 4](https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/Q4%20Annotated.png)
 
-# Question 5: Can we determine who has been the best player in the world?
+# Question 5: What Champions Have Been the Best Throughout the Years?
 
 # Conclusion 
