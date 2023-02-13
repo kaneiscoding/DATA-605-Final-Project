@@ -32,12 +32,8 @@ There are 4 main regions (leagues):
 The teams in each region compete against each other throughout the season, broken up into two splits (Spring and Summer). At the end of spring and summer, a team is crowned the champion of their respective region. In between the spring and summer, the top teams of each region are invited to an international tournament called the Mid Season Invitational (MSI) to compete against each other to see who is the best in the world. At the end of the season, the best teams for each region qualify for the World Championship where all teams compete to see who is the best in League of Legends for that season. 
 
 Visually, a League of Legends season will look like this:
-- Spring Split (domestic)
-- Mid Season Invitiational (International)
-- Summer Split (domestic)
-- World Championship (International)
 
-![Schedule]()
+![Schedule](https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/season-schedule.png)
 
 # Tools Used:
 - Microsoft Excel and Python to Clean the data
