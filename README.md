@@ -2,7 +2,7 @@
 ### By [Kane Smith](https://github.com/kaneiscoding)
 ### Data 605: Actionable Visualization & Analytics
 
-<img src="https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/league%20logo.png" alt="League of Legends Logo" width="650"/>
+<img src="/Graphics/Q1 Annotated.png" alt="League of Legends Logo" width="650"/>
 
 <br> <br> 
 
