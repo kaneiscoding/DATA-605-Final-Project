@@ -54,7 +54,7 @@ The teams in each region compete against each other throughout the season, broke
 
 Visually, a League of Legends season will look like this:
 
-<img src="https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/season-schedule.png"  alt="Schedule" width="450">
+<img src="\Graphics\season-schedule.png"  alt="Schedule" width="450">
 <br>
 
 ## Guiding Questions
@@ -102,7 +102,7 @@ During my analysis I used the following methodology:
 
 To begin my analysis, I want to know which team has performed the best in their respective region (North America, China, Korea, and EU) between 2018-2022. 
 
-<img src="https://github.com/kaneiscoding/DATA-605-Final-Project/blob/main/Graphics/Q1%20Annotated.png"  alt="Question 1" width="900">
+<img src="/Graphics/Q1%Annotated.png"  alt="Question 1" width="900">
 
 We can see from the visualization above that Gen.G has performed the best in the LCK (Korea), however not by much when compared to the other top 4 teams. In North America (LCS), Cloud9 has clearly been the best team in terms of win percentage. They have qualified for the World Championship every year since their inception in 2014. In Europe (LEC) we see similar parity as in Korea with G2 Esports being the best and Fnatic following closely behind. Interestingly, between 2015 and 2020 only G2 or Fnatic had won the domestic title. In China (LPL), there is a clear best being Top Esports.
 
