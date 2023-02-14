@@ -102,7 +102,7 @@ During my analysis I used the following methodology:
 
 To begin my analysis, I want to know which team has performed the best in their respective region (North America, China, Korea, and EU) between 2018-2022. 
 
-<img src="assets\q1annotated.png"  alt="Question 1" width="900">
+<img src="assets\q1annotated.png"  alt="Question 1" width="1200">
 
 We can see from the visualization above that Gen.G has performed the best in the LCK (Korea), however not by much when compared to the other top 4 teams. In North America (LCS), Cloud9 has clearly been the best team in terms of win percentage. They have qualified for the World Championship every year since their inception in 2014. In Europe (LEC) we see similar parity as in Korea with G2 Esports being the best and Fnatic following closely behind. Interestingly, between 2015 and 2020 only G2 or Fnatic had won the domestic title. In China (LPL), there is a clear best being Top Esports.
 
@@ -114,7 +114,7 @@ All of these teams are considered the best and are considered staples in their r
 
 We've seen who performs the best in their region, but what about internationally. The international tournaments are considered the most prestigous as that's when you compete again all of the best teams in the world. These tournaments also pose a different challenge as along with the extra pressure, you are facing against teams you haven't played all year.
 
-<img src="assets\q2annotated.png"  alt="Question 2" width="900">
+<img src="assets\q2annotated.png"  alt="Question 2" width="1200">
 
 The above visualization shows the top 20 teams in terms of international tournament win percentage. Gold teams have won an international tournament while the blue teams have not. We see a concentration of gold at the top with a few more gold teams scattered throughout. The most interesting thing is that the top 14 teams in the graph are from either China or Korea. These regions are condisered the best in the world and have historically dominated international tournmanets.
 
@@ -124,7 +124,7 @@ The above visualization shows the top 20 teams in terms of international tournam
 
 Now that we have analyzed the teams, let's take a closer look at the players. As mentioned before, there are 5 different roles in League of Legends, so it's important to compared apples to apples. Let's see who has been the most successful in terms of winning in each role.
 
-<img src="assets\q3annotated1.png"  alt="Question 3a" width="900">
+<img src="assets\q3annotated1.png"  alt="Question 3a" width="1200">
 
 Top: We see that Zeus has the best win percentage by a significant margin. Also interstingly 4 of the top 5 players are Chinese, with only Khan being from Korea.
 
@@ -138,7 +138,7 @@ Bottom: In the bottom role we see 3 world champions top the list with 2 North Am
 
 However, maybe looking just at win percentage doesn't tell the whole story. Perhaps their are some talented players who are stuck on lower tier teams that don't win as much. A good metric to see how impactful you are during a game is how much damage you have inflicted to the enemy. That is what the below visualization captures. Note that the support role is excluded as their role is not focused around doing damage.
 
-<img src="assets\q3annotated2.png"  alt="Question 3b" width="900">
+<img src="assets\q3annotated2.png"  alt="Question 3b" width="1200">
 
 We see a player, TheShy show up at the top of the top laner role who was not present in the win percentage graph. Not only are they at the top, but they eclipse everyone else by a large margin which is very impressive when compared to the other positions where the damage / min. numbers are much closer between players.
 
@@ -150,7 +150,7 @@ Next, let's see how some game metrics differ between the losing team and the win
 
 Now that we understand XP and gold, we can analyze the following visualization:
 
-<img src="assets\q4annotated.png"  alt="Question 4" width="900">
+<img src="assets\q4annotated.png"  alt="Question 4" width="1200">
 
 We see that the winning team does 418 more damage to the enemy on average compared to the losing team. This makes sense because as a team begins to pull ahead, they will have more gold and XP and therefore be stronger. 
 
@@ -162,13 +162,13 @@ The intersting metrics are XP and gold at 15 minutes into the game. The winning 
 
 One aspect of the game we have not touched yet is the champions. These are the characters that the players choose at the beginning of the game. Each have their own traits and abilities and this is where a lot of the strategy related to League of Legends comes in to play, creating "metas" within the game. What champions have been the most successful in competitive play?
 
-<img src="assets\q5annotated1.png"  alt="Question 5a" width="900">
+<img src="assets\q5annotated1.png"  alt="Question 5a" width="1200">
 
 We see the best champions having between a 70-75% win rate with one support chamption, Braum, having an impressive 78% win rate.
 
 Sometimes the most successful champions are not the most popular though. That's because before the game, each team can ban 5 champions that cannot be played during the game. The strategy is to ban the most powerful champions, the champions they believe the other team is best at, or champions they do not want to play against. 
 
-<img src="assets\q5annotated2.png"  alt="Question 5b" width="900">
+<img src="assets\q5annotated2.png"  alt="Question 5b" width="1200">
 
 We see different champions appear at the top of pick percentage for each role. There are large difference in the top of the middle, jungle and bottom roles with Azir being picked about 9% of games for midlane, Lee Sin being picked 7% of games for jungle and Ezreal being picked about 9% in bottom lane.
 
